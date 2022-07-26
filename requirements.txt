@@ -1,0 +1,4 @@
+simfile=2.0.1
+pygame==2.1.2
+ffpyplayer==4.3.2
+pymediainfo==5.1.0
